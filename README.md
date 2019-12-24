@@ -23,7 +23,7 @@ Server.py 在 windows10 下通过测试。
 
 # Client.py
 + 使用Python3 环境，需要配置监听IP和dnslog.cn个人地址。
-* 无回显请执行：python Client.py >> /dev/null &
+* 需要窗口中无回显请执行：python Client.py >> /dev/null &
 
 ![image](./img/Client.png)
 
