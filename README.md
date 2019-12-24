@@ -1,5 +1,5 @@
 # Rcode-隐蔽通讯命令执行程序
-
+#### BUG反馈请提交Issues
 
 # 测试环境
 Client.py 在 windows10和kali linux 下通过测试。
