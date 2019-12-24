@@ -18,13 +18,13 @@ Server.py 在 windows10 下通过测试。
 # Server.py
 + 使用了 Python3 Anacinda3 集成环境。
 
-![image](./img/Server.jpg)
+![image](./img/Server.png)
 
 
 # Client.py
 + 使用Python3 环境，需要配置监听IP和dnslog.cn个人地址。
 
-![image](./img/Client.jpg)
+![image](./img/Client.png)
 
 
 
