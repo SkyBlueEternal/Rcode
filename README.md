@@ -1,5 +1,9 @@
 # Rcode-隐蔽通讯命令执行程序
-Rcode 隐蔽通讯命令执行程序
+
+
+# 测试环境
+Client.py 在 windows10和kali linux 下通过测试。
+Server.py 在 windows10 下通过测试。
 
 # 使用方法
 ![image](./img/shuoming.png)
