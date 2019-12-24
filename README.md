@@ -1,6 +1,9 @@
 # Rcode-隐蔽通讯命令执行程序
 Rcode 隐蔽通讯命令执行程序
 
+# 使用方法
+![image](./img/shuoming.jpg)
+
 
 # 传递原理
 + Server --icmp--> Client --dns and icmp--> DNSLOG
@@ -15,9 +18,10 @@ Rcode 隐蔽通讯命令执行程序
 
 
 # Client.py
-+ 使用Python3 环境。
++ 使用Python3 环境，需要配置监听IP和dnslog.cn个人地址。
 
 ![image](./img/Client.jpg)
+
 
 
 
