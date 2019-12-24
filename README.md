@@ -2,7 +2,7 @@
 Rcode 隐蔽通讯命令执行程序
 
 # 使用方法
-![image](./img/shuoming.jpg)
+![image](./img/shuoming.png)
 
 
 # 传递原理
